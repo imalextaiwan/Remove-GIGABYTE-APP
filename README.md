@@ -1,4 +1,4 @@
-# Remove-GIGABYTE
+# Remove-GIGABYTE-APP
 
 一鍵移除 Windows 上所有 GIGABYTE(技嘉)安裝的軟體。
 
